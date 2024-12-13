@@ -33,7 +33,7 @@ Clone the repository:
 
 git clone https://github.com/yourusername/hr-analytics-dashboard.git
 
-Open the Power BI file (HR_Analytics.pbix) in Power BI Desktop.
+Open the Power BI file ([HR_Analytics.pbix](https://github.com/likitha0606/HR_analytics/blob/main/HR%20analysis%20powerbi.pbix)) in Power BI Desktop.
 
 Connect the dashboard to your data source if needed.
 
